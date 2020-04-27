@@ -1,0 +1,5 @@
+#login-form {
+    width: 57%;
+    display: flex;
+    justify-content: space-between;
+}
